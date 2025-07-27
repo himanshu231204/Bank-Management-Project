@@ -1,0 +1,26 @@
+[
+    {
+        "name": "akarsh",
+        "age": 23,
+        "email": "akarsh@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "harsh patel",
+        "age": 24,
+        "email": "harsh@gmail.com",
+        "pin": 1342,
+        "accountNo.": "17eL0k@",
+        "balance": 1000
+    },
+    {
+        "name": "Akarsh vyas",
+        "age": 23,
+        "email": "akarsh@gmail.com",
+        "pin": 2345,
+        "accountNo.": "x2N@G46",
+        "balance": 0
+    }
+]
