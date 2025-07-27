@@ -1,4 +1,4 @@
-# 🏦 Bank Management System using Streamlit
+ 🏦 Bank Management System using Streamlit
 
 A simple and beginner-friendly web-based bank application built using **Python** and **Streamlit**. It allows users to perform basic banking operations such as account creation, deposit, withdrawal, update, and deletion.
 
